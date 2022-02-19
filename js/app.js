@@ -4299,7 +4299,7 @@
     fe(),
       document.querySelector(".slider-confectioner") &&
         (new ce(".slider-confectioner", {
-          modules: [pe, me, he, ue],
+          modules: [pe, me],
           effect: "fade",
           fadeEffect: { crossFade: !0 },
           observer: !0,
